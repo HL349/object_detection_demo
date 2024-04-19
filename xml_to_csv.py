@@ -1,10 +1,5 @@
 """
-Usage:
-# Create train data:
-python xml_to_csv.py -i [PATH_TO_IMAGES_FOLDER]/train -o [PATH_TO_ANNOTATIONS_FOLDER]/train_labels.csv
-
-# Create test data:
-python xml_to_csv.py -i [PATH_TO_IMAGES_FOLDER]/test -o [PATH_TO_ANNOTATIONS_FOLDER]/test_labels.csv
+Modified by HL349 on 2024.4.19 for me
 """
 #Modified by HL349 on 24.04.19 again & again
 
