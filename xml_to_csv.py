@@ -6,11 +6,7 @@ python xml_to_csv.py -i [PATH_TO_IMAGES_FOLDER]/train -o [PATH_TO_ANNOTATIONS_FO
 # Create test data:
 python xml_to_csv.py -i [PATH_TO_IMAGES_FOLDER]/test -o [PATH_TO_ANNOTATIONS_FOLDER]/test_labels.csv
 """
-#Modifed by Prof. Kim om 24. 03. 24.  It is not easy to use the Git program....!!!
-#Modifed by Prof. Kim om 24. 03. 24.  It is not easy to use the Git program....!!!
-#Modifed by Prof. Kim om 24. 03. 24.  It is not easy to use the Git program....!!!#Modifed by Prof. Kim om 24. 03. 24.  It is not easy to use the Git program....!!!
-#Modifed by Prof. Kim om 24. 03. 24.  It is not easy to use the Git program....!!!
-#Modifed by Prof. Kim om 24. 03. 24.  It is not easy to use the Git program....!!!#Modifed by Prof. Kim om 24. 03. 24.  It is not easy to use the Git program....!!!
+#Modified by HL349 on 24.04.19
 
 import os
 import glob
